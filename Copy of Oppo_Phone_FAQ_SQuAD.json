@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Oppo Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Your Oppo phone may overheat from gaming, charging, or background apps. Close unused apps, reduce screen brightness, and avoid heavy usage while charging.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Oppo phone heating up?",
+              "answers": [
+                {
+                  "text": "Your Oppo phone may overheat from gaming, charging, or background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Power and Volume Down buttons together. You can also swipe three fingers down on the screen if gesture screenshot is enabled.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I take a screenshot on an Oppo phone?",
+              "answers": [
+                {
+                  "text": "Press the Power and Volume Down buttons together",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "ColorOS is Oppo's custom Android skin. It includes features like gesture navigation, personalization, and security tools, built on top of Android.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "What is ColorOS on Oppo phones?",
+              "answers": [
+                {
+                  "text": "ColorOS is Oppo's custom Android skin",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Oppo provides frequent updates for newer models. Flagship and mid-range devices receive 3-4 years of support, while budget phones may get less.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "Does Oppo provide regular software updates?",
+              "answers": [
+                {
+                  "text": "Yes, Oppo provides frequent updates for newer models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lag can result from low memory, app overload, or outdated software. Clear cache, update the system, and restart the phone regularly.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Why does my Oppo phone lag or freeze?",
+              "answers": [
+                {
+                  "text": "Lag can result from low memory, app overload, or outdated software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > Additional Settings > Backup and Reset > Erase all data. Backup your data before performing a reset.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "How do I reset my Oppo phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > Additional Settings > Backup and Reset > Erase all data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, especially the Oppo Reno and K series offer good gaming performance. They include gaming modes, AMOLED screens, and decent chipsets.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Are Oppo phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Yes, especially the Oppo Reno and K series offer good gaming performance",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Power Saving Mode, disable unused features like Bluetooth and GPS, and manage background apps through battery optimization settings.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "How can I improve battery life on my Oppo phone?",
+              "answers": [
+                {
+                  "text": "Use Power Saving Mode, disable unused features like Bluetooth and GPS, and manage background apps through battery optimization settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some apps can be uninstalled or disabled from Settings > Apps. Others may require ADB tools to remove completely.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Can I uninstall or disable bloatware on Oppo phones?",
+              "answers": [
+                {
+                  "text": "Some apps can be uninstalled or disabled from Settings > Apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Game Space boosts gaming performance, blocks calls and notifications, and optimizes visuals. It can be launched before starting a game.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "What is Game Space on Oppo phones?",
+              "answers": [
+                {
+                  "text": "Game Space boosts gaming performance, blocks calls and notifications, and optimizes visuals",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Oppo phones can last 2\u20133 years with proper care. Premium models with better build and battery management may last longer.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "How long does a typical Oppo phone last?",
+              "answers": [
+                {
+                  "text": "Oppo phones can last 2\u20133 years with proper care",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Oppo includes fingerprint, face unlock, and app lock features. While not as privacy-focused as Pixel, they\u2019re secure for general users.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Are Oppo phones secure and private?",
+              "answers": [
+                {
+                  "text": "Oppo includes fingerprint, face unlock, and app lock features",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Oppo A78 and F23 5G are solid picks under \u20b925K. They offer AMOLED displays, 5G support, and good battery life.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Which Oppo phone is best under \u20b925,000?",
+              "answers": [
+                {
+                  "text": "The Oppo A78 and F23 5G are solid picks under \u20b925K",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "ColorOS sometimes shows ads in certain apps. You can disable them under Settings > System Apps > Disable Recommendations.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Why am I seeing recommendations/ads on Oppo phones?",
+              "answers": [
+                {
+                  "text": "ColorOS sometimes shows ads in certain apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most newer Oppo phones, including the Reno, F, and A series, support 5G. Always check the specs before purchasing.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Do Oppo phones support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, most newer Oppo phones, including the Reno, F, and A series, support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Clone Phone is a tool to transfer data from your old phone to a new Oppo phone. It supports contacts, photos, apps, and more.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "What is Clone Phone on Oppo devices?",
+              "answers": [
+                {
+                  "text": "Clone Phone is a tool to transfer data from your old phone to a new Oppo phone",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Swipe up with three fingers or open Recent Apps and tap the Split Screen icon. Some apps may not support this feature.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "How to use split screen on an Oppo phone?",
+              "answers": [
+                {
+                  "text": "Swipe up with three fingers or open Recent Apps and tap the Split Screen icon",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > About Device > Software Update. Oppo regularly rolls out updates based on your region and device.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "How do I update ColorOS?",
+              "answers": [
+                {
+                  "text": "Go to Settings > About Device > Software Update",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Both are sister brands. Oppo focuses more on design and camera innovation, while Vivo often pushes selfie features and audio quality.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Is Oppo better than Vivo?",
+              "answers": [
+                {
+                  "text": "Oppo focuses more on design and camera innovation, while Vivo often pushes selfie features and audio quality",
+                  "answer_start": 24
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can find Oppo-authorized service centers on their official website or through the My Oppo app. They\u2019re available across India.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Where can I find Oppo service centers?",
+              "answers": [
+                {
+                  "text": "You can find Oppo-authorized service centers on their official website or through the My Oppo app",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

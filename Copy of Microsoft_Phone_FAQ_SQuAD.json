@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Microsoft Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Microsoft no longer makes traditional Lumia smartphones, but it has released foldable Android devices like the Surface Duo series.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Does Microsoft still make smartphones?",
+              "answers": [
+                {
+                  "text": "Microsoft no longer makes traditional Lumia smartphones, but it has released foldable Android devices like the Surface Duo series",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Microsoft officially ended support for Windows Phone in 2020 due to low market share and lack of app developer interest.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "What happened to Windows Phone?",
+              "answers": [
+                {
+                  "text": "Microsoft officially ended support for Windows Phone in 2020 due to low market share and lack of app developer interest",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Microsoft continues to support the Surface Duo and Duo 2 with security patches and Android updates for a limited time.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Is the Microsoft Surface Duo still supported?",
+              "answers": [
+                {
+                  "text": "Yes, Microsoft continues to support the Surface Duo and Duo 2 with security patches and Android updates for a limited time",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, the Surface Duo runs Android and supports all apps from the Google Play Store, just like any other Android device.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "Can I use Android apps on Surface Duo?",
+              "answers": [
+                {
+                  "text": "Yes, the Surface Duo runs Android and supports all apps from the Google Play Store, just like any other Android device",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Only if you're interested in multitasking and productivity. It's a niche device with unique form factor but lags behind in camera and performance.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Is it worth buying a Surface Duo in 2025?",
+              "answers": [
+                {
+                  "text": "Only if you're interested in multitasking and productivity",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, but most apps and services no longer work, and there are no security updates. It's best suited for basic calls and SMS.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Can I still use a Lumia phone in 2025?",
+              "answers": [
+                {
+                  "text": "Yes, but most apps and services no longer work, and there are no security updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "There's no official word. Microsoft now focuses on software, Surface tablets, and Android partnerships rather than phone hardware.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Does Microsoft plan to relaunch phones in the future?",
+              "answers": [
+                {
+                  "text": "Microsoft now focuses on software, Surface tablets, and Android partnerships rather than phone hardware",
+                  "answer_start": 26
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use your Microsoft account to sync contacts, then manually transfer media via OneDrive or a PC. Apps will need to be reinstalled on the new phone.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "How do I transfer data from a Windows Phone to Android or iPhone?",
+              "answers": [
+                {
+                  "text": "Use your Microsoft account to sync contacts, then manually transfer media via OneDrive or a PC",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, the Microsoft Office suite including Word, Excel, and PowerPoint is available on Android and works seamlessly on most phones.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Can I use Microsoft Office on Android phones?",
+              "answers": [
+                {
+                  "text": "Yes, the Microsoft Office suite including Word, Excel, and PowerPoint is available on Android and works seamlessly on most phones",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Surface Duo uses two separate screens instead of a single foldable display. It\u2019s great for multitasking but not ideal for media or gaming.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "What makes Surface Duo different from other foldables?",
+              "answers": [
+                {
+                  "text": "The Surface Duo uses two separate screens instead of a single foldable display",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Microsoft apps like Teams, OneDrive, Outlook, and Edge are available on Android and iOS and work well across devices.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Can I access Microsoft Teams and OneDrive on any smartphone?",
+              "answers": [
+                {
+                  "text": "Yes, Microsoft apps like Teams, OneDrive, Outlook, and Edge are available on Android and iOS and work well across devices",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, it supports the Surface Slim Pen for note-taking, sketching, and navigation, especially useful for productivity apps.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Does the Surface Duo support a stylus?",
+              "answers": [
+                {
+                  "text": "Yes, it supports the Surface Slim Pen for note-taking, sketching, and navigation, especially useful for productivity apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "No, the Microsoft Store for Windows Phone has been shut down. App downloads and updates are no longer available.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Is there still an app store for Windows Phone?",
+              "answers": [
+                {
+                  "text": "No, the Microsoft Store for Windows Phone has been shut down",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, you can sign in with your Microsoft account on Android or iPhone to sync Outlook, OneDrive, Office apps, and calendar data.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Can I sync my Microsoft account on Android or iPhone?",
+              "answers": [
+                {
+                  "text": "Yes, you can sign in with your Microsoft account on Android or iPhone to sync Outlook, OneDrive, Office apps, and calendar data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Surface Duo runs Android with monthly security updates. Lumia phones are no longer secure due to discontinued support.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Are Microsoft phones secure?",
+              "answers": [
+                {
+                  "text": "The Surface Duo runs Android with monthly security updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Surface Duo has a dual-screen setup for multitasking, but it lacks modern camera features and high-end specs found in flagships.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "What\u2019s the difference between Surface Duo and a regular Android phone?",
+              "answers": [
+                {
+                  "text": "The Surface Duo has a dual-screen setup for multitasking, but it lacks modern camera features and high-end specs found in flagships",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Support is available for Surface Duo devices through Microsoft's website and authorized repair centers, but not for older Lumia models.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "Does Microsoft offer phone customer support?",
+              "answers": [
+                {
+                  "text": "Support is available for Surface Duo devices through Microsoft's website and authorized repair centers, but not for older Lumia models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Android phones with Microsoft apps pre-installed or the Surface Duo are good alternatives for those familiar with the Microsoft ecosystem.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "What is the best alternative to a Windows Phone in 2025?",
+              "answers": [
+                {
+                  "text": "Android phones with Microsoft apps pre-installed or the Surface Duo are good alternatives for those familiar with the Microsoft ecosystem",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "No, Lumia phones no longer receive software updates. You may still receive limited functionality for basic tasks.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Can I still update my Lumia phone?",
+              "answers": [
+                {
+                  "text": "No, Lumia phones no longer receive software updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Surface Duo 2, launched in 2021, is the latest phone from Microsoft. No new phone models have been announced as of 2025.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "What is the latest phone released by Microsoft?",
+              "answers": [
+                {
+                  "text": "The Surface Duo 2, launched in 2021, is the latest phone from Microsoft",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

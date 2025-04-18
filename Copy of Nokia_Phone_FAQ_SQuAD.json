@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Nokia Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Yes, Nokia phones are known for clean Android, durability, and good battery life. They're a solid choice for casual users and those who prefer simplicity.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Are Nokia phones still good in 2025?",
+              "answers": [
+                {
+                  "text": "Yes, Nokia phones are known for clean Android, durability, and good battery life",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Nokia phones run Android One or a near-stock experience and are promised 2\u20133 years of Android and security updates, depending on the model.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "Do Nokia phones get regular Android updates?",
+              "answers": [
+                {
+                  "text": "Yes, Nokia phones run Android One or a near-stock experience and are promised 2\u20133 years of Android and security updates, depending on the model",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lag may be due to full storage, background apps, or outdated software. Clear cache, update the OS, and restart your device.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Why is my Nokia phone lagging?",
+              "answers": [
+                {
+                  "text": "Lag may be due to full storage, background apps, or outdated software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Power and Volume Down buttons together. Screenshots are saved in the Photos app under 'Screenshots'.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How do I take a screenshot on a Nokia phone?",
+              "answers": [
+                {
+                  "text": "Press the Power and Volume Down buttons together",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Android One offers a clean interface, no bloatware, and faster updates. It's great for those who prefer a simple, efficient experience.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Is Nokia Android One better than other Android versions?",
+              "answers": [
+                {
+                  "text": "Android One offers a clean interface, no bloatware, and faster updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Nokia G42 and C32 offer decent specs, clean Android, and long battery life under \u20b915K, ideal for basic use.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Which Nokia phone is best under \u20b915,000?",
+              "answers": [
+                {
+                  "text": "The Nokia G42 and C32 offer decent specs, clean Android, and long battery life under \u20b915K, ideal for basic use",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset > Erase All Data. Backup your important data before performing a reset.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "How do I reset my Nokia phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset > Erase All Data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, newer models like Nokia G60 5G and XR21 support 5G. Always check the specs of the model you're considering.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Do Nokia phones support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, newer models like Nokia G60 5G and XR21 support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Try a different charger and inspect the charging port for dust. Restart the phone and try again. If it still doesn\u2019t charge, contact support.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Why is my Nokia phone not charging?",
+              "answers": [
+                {
+                  "text": "Try a different charger and inspect the charging port for dust",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Most Nokia phones don't come with bloatware. Any pre-installed apps can often be disabled or uninstalled through Settings > Apps.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Can I remove bloatware from Nokia phones?",
+              "answers": [
+                {
+                  "text": "Most Nokia phones don't come with bloatware",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Nokia has service centers in many regions. You can find the nearest one through their official website or support app.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Where can I find Nokia phone service centers?",
+              "answers": [
+                {
+                  "text": "Nokia has service centers in many regions",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Nokia phones are built to last and can easily run for 3\u20134 years with proper care, thanks to their sturdy hardware and clean software.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How long does a Nokia phone last?",
+              "answers": [
+                {
+                  "text": "Nokia phones are built to last and can easily run for 3\u20134 years with proper care, thanks to their sturdy hardware and clean software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, with Android One or near-stock Android, Nokia phones get monthly security patches and lack unnecessary background data tracking.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Are Nokia phones secure?",
+              "answers": [
+                {
+                  "text": "Yes, with Android One or near-stock Android, Nokia phones get monthly security patches and lack unnecessary background data tracking",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some Nokia models support Camera2 API and can use GCam. Check compatibility before installing a GCam APK.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Can I use Google Camera (GCam) on a Nokia phone?",
+              "answers": [
+                {
+                  "text": "Some Nokia models support Camera2 API and can use GCam",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Nokia phones are not optimized for heavy gaming. They\u2019re better suited for light tasks, basic games, and everyday use.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Are Nokia phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Nokia phones are not optimized for heavy gaming",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "HMD Global is the company that designs and sells Nokia-branded smartphones and feature phones under license from Nokia.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "What is HMD Global in relation to Nokia?",
+              "answers": [
+                {
+                  "text": "HMD Global is the company that designs and sells Nokia-branded smartphones and feature phones under license from Nokia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Most Nokia phones feature LCD displays, but a few higher-end models may offer AMOLED. Check the display specs of each model.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "Does Nokia have AMOLED displays?",
+              "answers": [
+                {
+                  "text": "Most Nokia phones feature LCD displays, but a few higher-end models may offer AMOLED",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many Nokia models support dual SIM with 4G or 5G compatibility. Check the SIM slot configuration before buying.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Can I use dual SIM on a Nokia phone?",
+              "answers": [
+                {
+                  "text": "Yes, many Nokia models support dual SIM with 4G or 5G compatibility",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Nokia phones offer decent cameras in good lighting. Higher-end models may include Zeiss optics for better quality.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "How is the Nokia phone camera quality?",
+              "answers": [
+                {
+                  "text": "Nokia phones offer decent cameras in good lighting",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Most Nokia smartphones run stock Android or Android One without heavy customization, which makes the experience smoother and simpler.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Does Nokia use its own UI or a custom skin?",
+              "answers": [
+                {
+                  "text": "Most Nokia smartphones run stock Android or Android One without heavy customization, which makes the experience smoother and simpler",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Apple iPhone FAQ",
+      "paragraphs": [
+        {
+          "context": "Battery drain can be caused by background apps, high screen brightness, or outdated software. Check battery usage in Settings and enable Low Power Mode when needed.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my iPhone battery draining quickly?",
+              "answers": [
+                {
+                  "text": "Battery drain can be caused by background apps, high screen brightness, or outdated software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Side Button and Volume Up (Face ID models) or Home + Power button (older models) together. Screenshots are saved in the Photos app.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I take a screenshot on an iPhone?",
+              "answers": [
+                {
+                  "text": "Press the Side Button and Volume Up (Face ID models) or Home + Power button (older models) together",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Your iPhone may heat up from gaming, charging, or background activity. Avoid using it while charging and close unused apps.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Why is my iPhone heating up?",
+              "answers": [
+                {
+                  "text": "Your iPhone may heat up from gaming, charging, or background activity",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > General > Transfer or Reset iPhone > Erase All Content and Settings. Back up your data first using iCloud or iTunes.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How do I reset my iPhone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > General > Transfer or Reset iPhone > Erase All Content and Settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Apple typically supports iPhones with iOS updates for 5\u20136 years. Even older models like the iPhone 8 still receive security patches.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "How long will my iPhone get software updates?",
+              "answers": [
+                {
+                  "text": "Apple typically supports iPhones with iOS updates for 5\u20136 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iCloud is Apple\u2019s cloud storage service. It syncs your photos, contacts, backups, and more across devices. 5GB is free; more is available via subscription.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "What is iCloud and why should I use it?",
+              "answers": [
+                {
+                  "text": "iCloud is Apple\u2019s cloud storage service",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Apple optimizes charging with software to reduce wear. Using an Apple-certified fast charger is safe and won\u2019t significantly harm battery life.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Does fast charging harm my iPhone battery?",
+              "answers": [
+                {
+                  "text": "Apple optimizes charging with software to reduce wear",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Pro models offer better displays, cameras, and performance. They\u2019re aimed at power users, while regular models are simpler and more affordable.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "What\u2019s the difference between iPhone Pro and regular models?",
+              "answers": [
+                {
+                  "text": "Pro models offer better displays, cameras, and performance",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some system apps like Stocks or Notes can be removed. Others like Phone or Messages cannot. Long press and tap 'Remove App' to uninstall.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Can I uninstall built-in iPhone apps?",
+              "answers": [
+                {
+                  "text": "Some system apps like Stocks or Notes can be removed",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Check the cable, charging port, and adapter. Clean the port gently and try a different charger. If it still doesn't work, contact Apple Support.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Why is my iPhone not charging?",
+              "answers": [
+                {
+                  "text": "Check the cable, charging port, and adapter",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Face ID uses 3D facial mapping for authentication. It\u2019s highly secure and works even in low light, but may struggle with sunglasses or masks.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "What is Face ID and how secure is it?",
+              "answers": [
+                {
+                  "text": "Face ID uses 3D facial mapping for authentication",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > General > Software Update. Make sure you're connected to Wi-Fi and your device is charged before updating.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How do I update iOS on my iPhone?",
+              "answers": [
+                {
+                  "text": "Go to Settings > General > Software Update",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iPhones offer longer software support, better hardware integration, and high resale value. Their premium ecosystem also adds to the price.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Why are iPhones more expensive than Android phones?",
+              "answers": [
+                {
+                  "text": "iPhones offer longer software support, better hardware integration, and high resale value",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Swipe down to open Control Center, enable Wi-Fi and Bluetooth, then tap AirDrop. Select 'Contacts Only' or 'Everyone' to send files instantly.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "How do I use AirDrop?",
+              "answers": [
+                {
+                  "text": "Swipe down to open Control Center, enable Wi-Fi and Bluetooth, then tap AirDrop",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Most recent iPhones are water-resistant (IP67 or IP68). They can survive splashes and short water exposure, but not prolonged submersion.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Is my iPhone waterproof?",
+              "answers": [
+                {
+                  "text": "Most recent iPhones are water-resistant (IP67 or IP68)",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Quick Start by placing your old and new iPhones together, or restore from an iCloud or iTunes backup during setup.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "How do I transfer data to a new iPhone?",
+              "answers": [
+                {
+                  "text": "Use Quick Start by placing your old and new iPhones together, or restore from an iCloud or iTunes backup during setup",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iOS is Apple\u2019s operating system. It\u2019s known for its smooth interface, better app quality, and security. It\u2019s more closed off compared to Android.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "What is iOS and how is it different from Android?",
+              "answers": [
+                {
+                  "text": "iOS is Apple\u2019s operating system",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, all major Google apps like Gmail, Maps, and YouTube are available on the App Store and work seamlessly on iPhones.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Can I use Google apps on my iPhone?",
+              "answers": [
+                {
+                  "text": "Yes, all major Google apps like Gmail, Maps, and YouTube are available on the App Store and work seamlessly on iPhones",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Enable Face ID or Touch ID, set app permissions, use Private Relay (iCloud+), and avoid installing apps from unknown sources.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "How do I protect my privacy on iPhone?",
+              "answers": [
+                {
+                  "text": "Enable Face ID or Touch ID, set app permissions, use Private Relay (iCloud+), and avoid installing apps from unknown sources",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Visit an Apple Store or authorized service provider. You can book appointments via the Apple Support app or website.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Where can I get my iPhone repaired?",
+              "answers": [
+                {
+                  "text": "Visit an Apple Store or authorized service provider",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

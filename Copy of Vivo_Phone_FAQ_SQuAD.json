@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Vivo Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Your Vivo phone may slow down due to background apps, full storage, or outdated software. Clear cache, uninstall unused apps, and keep the system updated.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Vivo phone running slow?",
+              "answers": [
+                {
+                  "text": "Your Vivo phone may slow down due to background apps, full storage, or outdated software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Volume Down and Power buttons together. Alternatively, swipe three fingers down on the screen if gesture screenshot is enabled.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I take a screenshot on a Vivo phone?",
+              "answers": [
+                {
+                  "text": "Press the Volume Down and Power buttons together",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Vivo provides regular updates for newer and flagship models, but budget phones may receive fewer. Check your phone settings under 'System update.'",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Does Vivo offer regular software updates?",
+              "answers": [
+                {
+                  "text": "Vivo provides regular updates for newer and flagship models, but budget phones may receive fewer",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > Ultra Game Mode and toggle it on. It enhances gaming by minimizing distractions and boosting performance.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How do I enable Ultra Game Mode on Vivo phones?",
+              "answers": [
+                {
+                  "text": "Go to Settings > Ultra Game Mode and toggle it on",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some Vivo apps can be uninstalled or disabled through Settings > Apps. However, system apps may be restricted.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Can I uninstall or disable pre-installed Vivo apps?",
+              "answers": [
+                {
+                  "text": "Some Vivo apps can be uninstalled or disabled through Settings > Apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many Vivo phones, especially in the V and X series, support 5G. Check your specific model's specs to confirm.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Does Vivo support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, many Vivo phones, especially in the V and X series, support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Power Saving Mode, reduce screen brightness, and close background apps. Also disable auto-sync for unused accounts.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "How to improve battery life on my Vivo phone?",
+              "answers": [
+                {
+                  "text": "Use Power Saving Mode, reduce screen brightness, and close background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "FunTouch OS is Vivo\u2019s custom skin on Android. It includes additional features, a unique layout, and battery optimization tools.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "What is FunTouch OS?",
+              "answers": [
+                {
+                  "text": "FunTouch OS is Vivo\u2019s custom skin on Android",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, especially the X series (like X80 Pro) is known for excellent cameras, co-engineered with Zeiss for improved imaging.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Is Vivo a good brand for photography?",
+              "answers": [
+                {
+                  "text": "Yes, especially the X series (like X80 Pro) is known for excellent cameras, co-engineered with Zeiss for improved imaging",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "A Vivo phone can last 2\u20133 years with proper care. Flagships usually offer better longevity due to higher quality hardware.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "How long does a Vivo phone typically last?",
+              "answers": [
+                {
+                  "text": "A Vivo phone can last 2\u20133 years with proper care",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, if your Vivo phone supports Camera2 API, you can install Google Camera (GCam) APK for improved photography, especially in low light.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Can I use GCam on a Vivo phone?",
+              "answers": [
+                {
+                  "text": "Yes, if your Vivo phone supports Camera2 API, you can install Google Camera (GCam) APK for improved photography, especially in low light",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset > Erase all data. Make sure to back up important files before doing a factory reset.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How do I reset my Vivo phone?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset > Erase all data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Vivo offers 1 year of warranty and has a wide service network across India. You can locate service centers on their official site.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Does Vivo provide warranty and service support in India?",
+              "answers": [
+                {
+                  "text": "Yes, Vivo offers 1 year of warranty and has a wide service network across India",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Ensure your screen and fingers are clean. Re-register your fingerprint and avoid wet fingers. Update software if the issue persists.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Why is the fingerprint sensor not working properly?",
+              "answers": [
+                {
+                  "text": "Ensure your screen and fingers are clean",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Vivo includes standard Android security features and biometric options. While not as privacy-focused as Pixel or Apple, it\u2019s secure for average users.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Are Vivo phones secure and private?",
+              "answers": [
+                {
+                  "text": "Vivo includes standard Android security features and biometric options",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Both are sister brands with similar tech. Vivo focuses more on camera features, while Oppo often experiments with charging and design.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Which is better: Vivo or Oppo?",
+              "answers": [
+                {
+                  "text": "Both are sister brands with similar tech",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Vivo V27 and V29e offer strong cameras, AMOLED displays, and decent performance under \u20b930K. Great picks for camera lovers.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "What is the best Vivo phone under \u20b930,000?",
+              "answers": [
+                {
+                  "text": "The Vivo V27 and V29e offer strong cameras, AMOLED displays, and decent performance under \u20b930K",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, some Vivo phones come with pre-installed apps and ads. You can disable or uninstall most of them through settings.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Do Vivo phones have bloatware?",
+              "answers": [
+                {
+                  "text": "Yes, some Vivo phones come with pre-installed apps and ads",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Phones like the Vivo T2 Pro and iQOO series are designed for gaming. They offer powerful processors and smooth displays for a good gaming experience.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Is Vivo good for gaming?",
+              "answers": [
+                {
+                  "text": "Phones like the Vivo T2 Pro and iQOO series are designed for gaming",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can buy Vivo phones from their official website, authorized retail stores, Amazon, Flipkart, or offline mobile outlets.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Where can I buy official Vivo phones?",
+              "answers": [
+                {
+                  "text": "You can buy Vivo phones from their official website, authorized retail stores, Amazon, Flipkart, or offline mobile outlets",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

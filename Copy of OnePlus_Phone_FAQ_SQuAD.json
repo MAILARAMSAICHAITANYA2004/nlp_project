@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "OnePlus Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "It may heat up due to gaming, charging, or background processes. Close unused apps, avoid heavy usage while charging, and keep your phone updated.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my OnePlus phone heating up?",
+              "answers": [
+                {
+                  "text": "It may heat up due to gaming, charging, or background processes",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Check for battery-draining apps in Settings > Battery. Reduce brightness, turn off background sync, and use Battery Saver when needed.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I fix battery drain on my OnePlus device?",
+              "answers": [
+                {
+                  "text": "Check for battery-draining apps in Settings > Battery",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Too many background apps or low storage may cause lag. Clear cache, restart your phone, and update to the latest OxygenOS version.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Why is my OnePlus phone lagging or stuttering?",
+              "answers": [
+                {
+                  "text": "Too many background apps or low storage may cause lag",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "For most models, you can enter Recovery Mode (Power + Volume Down), then select 'Wipe cache partition'. This helps improve performance.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How can I clear cache on a OnePlus phone?",
+              "answers": [
+                {
+                  "text": "For most models, you can enter Recovery Mode (Power + Volume Down), then select 'Wipe cache partition'",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset Options > Erase all data. Make sure to back up important data before resetting.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "How do I perform a factory reset on OnePlus phones?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset Options > Erase all data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Not significantly. OnePlus Warp/SuperVOOC charging is optimized for minimal heat. Long-term use may slightly affect battery health, but it's safe.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Does fast charging affect the battery life on OnePlus phones?",
+              "answers": [
+                {
+                  "text": "OnePlus Warp/SuperVOOC charging is optimized for minimal heat",
+                  "answer_start": 19
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Warp Charge is OnePlus\u2019s older branding; SuperVOOC is the new shared tech from parent company Oppo. Both offer super-fast charging speeds.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "What is the difference between Warp Charge and SuperVOOC?",
+              "answers": [
+                {
+                  "text": "Warp Charge is OnePlus\u2019s older branding; SuperVOOC is the new shared tech from parent company Oppo",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, but to get full-speed charging, use an official OnePlus or compatible SuperVOOC charger. Other chargers may charge slower.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Can I use third-party chargers with OnePlus phones?",
+              "answers": [
+                {
+                  "text": "Yes, but to get full-speed charging, use an official OnePlus or compatible SuperVOOC charger",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "OxygenOS is OnePlus\u2019s Android skin known for speed and simplicity. Newer OnePlus phones now run ColorOS in some regions, which has more features but is less minimal.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "What is OxygenOS and how is it different from ColorOS?",
+              "answers": [
+                {
+                  "text": "OxygenOS is OnePlus\u2019s Android skin known for speed and simplicity",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "To unify software development with Oppo and reduce maintenance costs. This move helps faster updates but sacrifices the old clean OxygenOS feel.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Why did OnePlus switch to ColorOS in some regions?",
+              "answers": [
+                {
+                  "text": "To unify software development with Oppo and reduce maintenance costs",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "OnePlus flagships usually receive 3\u20134 years of Android updates and security patches. Budget phones like Nord series may receive fewer.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "How often does OnePlus release software updates?",
+              "answers": [
+                {
+                  "text": "OnePlus flagships usually receive 3\u20134 years of Android updates and security patches",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some pre-installed apps can be uninstalled or disabled via Settings > Apps. For deeper control, you'll need ADB tools or a custom ROM.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Can I uninstall system apps or bloatware on OnePlus?",
+              "answers": [
+                {
+                  "text": "Some pre-installed apps can be uninstalled or disabled via Settings > Apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Zen Mode lets you take a break from your phone by locking you out for 20 minutes or more. Activate it from Quick Settings or the OnePlus app.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "How do I use Zen Mode and what is it for?",
+              "answers": [
+                {
+                  "text": "Zen Mode lets you take a break from your phone by locking you out for 20 minutes or more",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "OnePlus image processing tends to brighten photos. Use Pro Mode or tap to focus and adjust exposure manually when needed.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Why does my OnePlus camera sometimes overexpose images?",
+              "answers": [
+                {
+                  "text": "OnePlus image processing tends to brighten photos",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, the Camera app includes Pro Mode where you can control ISO, shutter speed, focus, and white balance manually.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Does OnePlus have a Pro Mode for manual photography?",
+              "answers": [
+                {
+                  "text": "Yes, the Camera app includes Pro Mode where you can control ISO, shutter speed, focus, and white balance manually",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "OnePlus cameras have improved but still trail behind iPhone and Pixel in consistency. Pro Mode and tuning help for advanced users.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "How good is the OnePlus camera compared to iPhones or Pixels?",
+              "answers": [
+                {
+                  "text": "OnePlus cameras have improved but still trail behind iPhone and Pixel in consistency",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "OnePlus now offers true flagships, not just 'killers'. The price is higher, but performance and features are on par with premium brands.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "Is OnePlus still a flagship killer in 2025?",
+              "answers": [
+                {
+                  "text": "OnePlus now offers true flagships, not just 'killers'",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The OnePlus 11R and 12 offer excellent gaming performance with Snapdragon 8 series chips, high refresh rates, and good cooling systems.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Which OnePlus phone is best for gaming or performance?",
+              "answers": [
+                {
+                  "text": "The OnePlus 11R and 12 offer excellent gaming performance with Snapdragon 8 series chips, high refresh rates, and good cooling systems",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Flagships receive up to 4 years of updates. Budget models get fewer, but the support is still decent compared to many other brands.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Do OnePlus phones get long-term software support?",
+              "answers": [
+                {
+                  "text": "Flagships receive up to 4 years of updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "OnePlus offers clean software and smooth performance. Samsung has better cameras and updates; Xiaomi focuses on value. It depends on what you prioritize.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Is OnePlus better than Samsung or Xiaomi for Android users?",
+              "answers": [
+                {
+                  "text": "OnePlus offers clean software and smooth performance",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

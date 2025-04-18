@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "iQOO Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Yes, iQOO phones are designed with gaming in mind. They feature high-refresh-rate displays, powerful chipsets, and Game Mode for enhanced performance.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Are iQOO phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Yes, iQOO phones are designed with gaming in mind",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iQOO is a sub-brand of Vivo, focusing on performance and gaming. iQOO phones typically offer better specs at a competitive price.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "What is the difference between Vivo and iQOO?",
+              "answers": [
+                {
+                  "text": "iQOO is a sub-brand of Vivo, focusing on performance and gaming",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iQOO offers decent update support for major models. Flagship devices usually receive 2\u20133 years of Android and security updates.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Does iQOO provide regular software updates?",
+              "answers": [
+                {
+                  "text": "iQOO offers decent update support for major models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Volume Down and Power buttons together, or swipe down with three fingers if the gesture is enabled.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How do I take a screenshot on an iQOO phone?",
+              "answers": [
+                {
+                  "text": "Press the Volume Down and Power buttons together, or swipe down with three fingers if the gesture is enabled",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Overheating can occur during gaming, charging, or heavy multitasking. Use Game Mode\u2019s cooling features and avoid using while charging.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Why is my iQOO phone overheating?",
+              "answers": [
+                {
+                  "text": "Overheating can occur during gaming, charging, or heavy multitasking",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iQOO excels in performance and gaming optimization. Realme is known for design and UI, while Poco emphasizes value. Choose based on your priorities.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Is iQOO better than Realme or Poco?",
+              "answers": [
+                {
+                  "text": "iQOO excels in performance and gaming optimization",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some pre-installed apps can be removed or disabled. Go to Settings > Apps to manage them. For deeper removal, ADB tools may be needed.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Can I uninstall bloatware on iQOO phones?",
+              "answers": [
+                {
+                  "text": "Some pre-installed apps can be removed or disabled",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The iQOO Z7 and iQOO Z9 offer great value under \u20b925K with 5G, AMOLED displays, and smooth performance.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Which iQOO phone is best under \u20b925,000?",
+              "answers": [
+                {
+                  "text": "The iQOO Z7 and iQOO Z9 offer great value under \u20b925K with 5G, AMOLED displays, and smooth performance",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Game Mode is part of the Ultra Game Mode feature. Access it through Settings or from within supported games for better performance.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "How do I enable Game Mode on iQOO phones?",
+              "answers": [
+                {
+                  "text": "Game Mode is part of the Ultra Game Mode feature",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most recent iQOO phones, even in mid-range, support 5G bands. Always check the spec sheet for supported bands.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Does iQOO support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, most recent iQOO phones, even in mid-range, support 5G bands",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Power Saving Mode, reduce screen brightness, and manage background apps. iQOO UI also has battery optimization settings.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "How do I improve battery life on my iQOO device?",
+              "answers": [
+                {
+                  "text": "Use Power Saving Mode, reduce screen brightness, and manage background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset Options > Erase all data. Backup your data before resetting.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How do I factory reset an iQOO phone?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset Options > Erase all data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iQOO phones run on Funtouch OS (or OriginOS in China), which is a customized Android skin developed by Vivo.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "What OS does iQOO use?",
+              "answers": [
+                {
+                  "text": "iQOO phones run on Funtouch OS (or OriginOS in China), which is a customized Android skin developed by Vivo",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iQOO phones focus more on performance, but models like iQOO 9 and 11 have competitive cameras, especially in daylight.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Is iQOO good for camera quality?",
+              "answers": [
+                {
+                  "text": "iQOO phones focus more on performance, but models like iQOO 9 and 11 have competitive cameras, especially in daylight",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many iQOO phones support Camera2 API and can run GCam for improved photo quality.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Can I use Google Camera (GCam) on iQOO phones?",
+              "answers": [
+                {
+                  "text": "Yes, many iQOO phones support Camera2 API and can run GCam for improved photo quality",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "iQOO uses Vivo\u2019s service network. You can find nearby service centers on Vivo\u2019s official site or contact iQOO support.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Where can I service my iQOO phone in India?",
+              "answers": [
+                {
+                  "text": "iQOO uses Vivo\u2019s service network",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Too many apps or low storage can slow it down. Clear cache, uninstall unused apps, and restart the phone to improve performance.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "Why is my iQOO phone lagging?",
+              "answers": [
+                {
+                  "text": "Too many apps or low storage can slow it down",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "With good care, an iQOO phone can last 2\u20133 years. Flagship models with better hardware may last longer.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "How long does an iQOO phone last?",
+              "answers": [
+                {
+                  "text": "With good care, an iQOO phone can last 2\u20133 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many iQOO phones offer virtual RAM expansion to improve multitasking. You can enable it under Settings > RAM & Storage.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Does iQOO support virtual RAM expansion?",
+              "answers": [
+                {
+                  "text": "Yes, many iQOO phones offer virtual RAM expansion to improve multitasking",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, iQOO balances gaming performance and value well. With regular updates and competitive hardware, it\u2019s a solid choice for power users.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Is iQOO a good choice in 2025?",
+              "answers": [
+                {
+                  "text": "Yes, iQOO balances gaming performance and value well",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Google Pixel FAQ",
+      "paragraphs": [
+        {
+          "context": "Pixel phones may warm up during charging, gaming, or camera use. This is normal unless it's too hot to touch. Restart your phone and update software if it persists.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Pixel phone getting warm?",
+              "answers": [
+                {
+                  "text": "Pixel phones may warm up during charging, gaming, or camera use",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press Power and Volume Down buttons together. You can also swipe up on the screen to access the recent apps menu and tap the Screenshot button.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I take a screenshot on a Pixel phone?",
+              "answers": [
+                {
+                  "text": "Press Power and Volume Down buttons together",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Call Screen lets Google Assistant answer unknown calls, screen spam, and show a transcript. It's helpful for filtering robocalls and scams.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "What is the Pixel-exclusive Call Screen feature?",
+              "answers": [
+                {
+                  "text": "Call Screen lets Google Assistant answer unknown calls, screen spam, and show a transcript",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Pixel phones get Android updates first. They typically receive 3 years of Android OS updates and 5 years of security patches.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "Do Pixel phones get regular software updates?",
+              "answers": [
+                {
+                  "text": "Yes, Pixel phones get Android updates first",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Enable Battery Saver or Adaptive Battery, reduce background activity, and lower screen brightness. Also turn off 5G if not needed.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "How can I improve battery life on my Pixel phone?",
+              "answers": [
+                {
+                  "text": "Enable Battery Saver or Adaptive Battery, reduce background activity, and lower screen brightness",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Pixel phones use clean, stock Android with exclusive Google features. They're the first to get updates and offer top-tier AI features.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "What is the difference between Pixel and other Android phones?",
+              "answers": [
+                {
+                  "text": "Pixel phones use clean, stock Android with exclusive Google features",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most system apps can be uninstalled or disabled through Settings > Apps. Some core apps like Phone or Messages can\u2019t be removed.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Can I uninstall or disable pre-installed apps on Pixel?",
+              "answers": [
+                {
+                  "text": "Yes, most system apps can be uninstalled or disabled through Settings > Apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Pixel phones are known for excellent computational photography. Features like Night Sight, Magic Eraser, and Real Tone make them top-tier.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Are Pixel phones good for photography?",
+              "answers": [
+                {
+                  "text": "Yes, Pixel phones are known for excellent computational photography",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "It could be due to low storage, too many apps, or outdated software. Restart the phone, clear cache, or factory reset if needed.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Why is my Pixel phone lagging?",
+              "answers": [
+                {
+                  "text": "It could be due to low storage, too many apps, or outdated software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset Options > Erase All Data (Factory Reset). Always back up your data first.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "How do I reset my Pixel phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset Options > Erase All Data (Factory Reset)",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Pixel phones have built-in Titan M2 security chips, regular security updates, and exclusive features like Private Compute Core.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Is Pixel more private and secure than other Android phones?",
+              "answers": [
+                {
+                  "text": "Yes, Pixel phones have built-in Titan M2 security chips, regular security updates, and exclusive features like Private Compute Core",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Pixel cameras excel in low light with Night Sight, which captures sharp, well-lit photos even in near darkness.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How is the Pixel camera in low light?",
+              "answers": [
+                {
+                  "text": "Pixel cameras excel in low light with Night Sight, which captures sharp, well-lit photos even in near darkness",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Pixels are popular among developers for custom ROMs. Unlocking the bootloader is simple, but it voids warranty and risks data loss.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Can I install custom ROMs on Pixel phones?",
+              "answers": [
+                {
+                  "text": "Yes, Pixels are popular among developers for custom ROMs",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Now Playing automatically identifies music playing nearby and displays the song on your lock screen without needing internet.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "What is Now Playing on Pixel phones?",
+              "answers": [
+                {
+                  "text": "Now Playing automatically identifies music playing nearby and displays the song on your lock screen without needing internet",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, all recent Pixel phones support 5G and come with dual SIM functionality via physical SIM and eSIM.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Does Pixel support 5G and eSIM?",
+              "answers": [
+                {
+                  "text": "Yes, all recent Pixel phones support 5G and come with dual SIM functionality via physical SIM and eSIM",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Long-press the power button or say 'Hey Google' to launch Google Assistant. You can ask questions, set reminders, control apps, and more.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "How do I use Google Assistant on Pixel?",
+              "answers": [
+                {
+                  "text": "Long-press the power button or say 'Hey Google' to launch Google Assistant",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Pixel software is clean, fast, and always up-to-date. Exclusive features like Call Screening, Magic Eraser, and Recorder with real-time transcription set it apart.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "What makes Pixel software better?",
+              "answers": [
+                {
+                  "text": "Pixel software is clean, fast, and always up-to-date",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use the Quick Switch Adapter included in the box, or transfer via Wi-Fi or cloud backup during setup. Google makes migration simple.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "How do I transfer data to a new Pixel phone?",
+              "answers": [
+                {
+                  "text": "Use the Quick Switch Adapter included in the box, or transfer via Wi-Fi or cloud backup during setup",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can use authorized repair partners like uBreakiFix or contact Google support online to schedule repairs or replacements.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Where can I get my Pixel phone repaired?",
+              "answers": [
+                {
+                  "text": "You can use authorized repair partners like uBreakiFix or contact Google support online to schedule repairs or replacements",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "If you value clean Android, fast updates, and smart AI features, Pixel is an excellent choice. However, it may lack the hardware flashiness of Samsung or Apple.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Is Pixel worth it over Samsung or iPhone?",
+              "answers": [
+                {
+                  "text": "If you value clean Android, fast updates, and smart AI features, Pixel is an excellent choice",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

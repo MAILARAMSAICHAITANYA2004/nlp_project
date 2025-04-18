@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Realme Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Your Realme phone may slow down due to background apps, low storage, or outdated software. Clear cache, remove unused apps, and keep the system updated.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Realme phone lagging or slowing down?",
+              "answers": [
+                {
+                  "text": "Your Realme phone may slow down due to background apps, low storage, or outdated software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Volume Down and Power buttons together. You can also swipe three fingers down the screen if gesture screenshot is enabled in settings.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I take a screenshot on a Realme phone?",
+              "answers": [
+                {
+                  "text": "Press the Volume Down and Power buttons together",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Realme offers decent update support, especially for mid-range and premium models. Budget phones may get fewer updates.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Does Realme provide regular software updates?",
+              "answers": [
+                {
+                  "text": "Realme offers decent update support, especially for mid-range and premium models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Realme UI is Realme\u2019s custom Android interface. It includes customization options, security features, and performance optimizations.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "What is Realme UI?",
+              "answers": [
+                {
+                  "text": "Realme UI is Realme\u2019s custom Android interface",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Power Saving Mode, reduce screen brightness, and limit background activity. Also, disable unused features like location and auto-sync.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "How can I extend battery life on my Realme device?",
+              "answers": [
+                {
+                  "text": "Use Power Saving Mode, reduce screen brightness, and limit background activity",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Many Realme phones like the Narzo 60 5G, Realme 11x, and GT series support 5G. Check the specs of your model to confirm.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Which Realme phones support 5G?",
+              "answers": [
+                {
+                  "text": "Many Realme phones like the Narzo 60 5G, Realme 11x, and GT series support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System Settings > Backup & Reset > Erase all data. Make sure to back up your important files before resetting.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "How to reset my Realme phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System Settings > Backup & Reset > Erase all data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, especially the Realme GT and Narzo series. They have strong processors, high-refresh-rate displays, and game modes for better performance.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Are Realme phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Yes, especially the Realme GT and Narzo series",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Overheating may happen due to gaming, long screen time, or charging while using the phone. Close unused apps and avoid charging during heavy use.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Why is my Realme phone heating up?",
+              "answers": [
+                {
+                  "text": "Overheating may happen due to gaming, long screen time, or charging while using the phone",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some pre-installed apps can be uninstalled or disabled. Go to Settings > Apps and check if the uninstall or disable option is available.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Can I uninstall Realme system apps?",
+              "answers": [
+                {
+                  "text": "Some pre-installed apps can be uninstalled or disabled",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Realme includes standard Android security with regular patches. For better privacy, review app permissions and use fingerprint or face unlock.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Are Realme phones secure?",
+              "answers": [
+                {
+                  "text": "Realme includes standard Android security with regular patches",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Realme Narzo 60x and Realme 11x 5G offer good performance, cameras, and battery life for under \u20b920K. Great for everyday users.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "What is the best Realme phone under \u20b920,000?",
+              "answers": [
+                {
+                  "text": "The Realme Narzo 60x and Realme 11x 5G offer good performance, cameras, and battery life for under \u20b920K",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Realme UI may show ads or promotions in system apps. You can turn them off in Settings > System Apps > App Management > Disable Recommendations.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Why am I seeing ads or notifications from Realme apps?",
+              "answers": [
+                {
+                  "text": "Realme UI may show ads or promotions in system apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "With proper care, Realme phones can last 2\u20133 years. Premium models with better hardware may last longer.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "How long does a Realme phone last?",
+              "answers": [
+                {
+                  "text": "With proper care, Realme phones can last 2\u20133 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Realme has a strong service network across India. You can locate your nearest center on the official Realme website.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Does Realme have service centers in India?",
+              "answers": [
+                {
+                  "text": "Yes, Realme has a strong service network across India",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Both offer great value. Realme UI is cleaner and better for gaming, while Redmi often offers better cameras and MIUI features.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Which is better: Realme or Redmi?",
+              "answers": [
+                {
+                  "text": "Realme UI is cleaner and better for gaming, while Redmi often offers better cameras and MIUI features",
+                  "answer_start": 24
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Swipe up with three fingers or go to Recent Apps and tap the split screen icon. Not all apps support split screen.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "How do I use split screen on Realme phones?",
+              "answers": [
+                {
+                  "text": "Swipe up with three fingers or go to Recent Apps and tap the split screen icon",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Game Space boosts gaming performance by blocking notifications, freeing RAM, and optimizing graphics while gaming.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "What is Game Space on Realme phones?",
+              "answers": [
+                {
+                  "text": "Game Space boosts gaming performance by blocking notifications, freeing RAM, and optimizing graphics while gaming",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Realme is a Chinese smartphone brand, originally a sub-brand of Oppo. It now operates independently with global presence.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Is Realme a Chinese company?",
+              "answers": [
+                {
+                  "text": "Yes, Realme is a Chinese smartphone brand, originally a sub-brand of Oppo",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can buy Realme phones from realme.com, Flipkart, Amazon, or authorized offline retailers across India.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Where can I buy Realme phones officially?",
+              "answers": [
+                {
+                  "text": "You can buy Realme phones from realme",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

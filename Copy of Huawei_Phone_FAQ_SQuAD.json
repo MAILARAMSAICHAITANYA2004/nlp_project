@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Huawei Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Due to U.S. trade restrictions, newer Huawei phones don\u2019t ship with Google services. Instead, they use Huawei\u2019s AppGallery and services.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why can\u2019t I use Google apps on my Huawei phone?",
+              "answers": [
+                {
+                  "text": "trade restrictions, newer Huawei phones don\u2019t ship with Google services",
+                  "answer_start": 12
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Huawei\u2019s AppGallery or third-party stores like APKPure or Aurora Store. Ensure apps are from trusted sources to avoid malware.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I install apps on a Huawei phone without Google Play?",
+              "answers": [
+                {
+                  "text": "Use Huawei\u2019s AppGallery or third-party stores like APKPure or Aurora Store",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, AppGallery is Huawei\u2019s official app store with safety checks. However, it may not have every app available on Google Play.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Is Huawei AppGallery safe to use?",
+              "answers": [
+                {
+                  "text": "Yes, AppGallery is Huawei\u2019s official app store with safety checks",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Volume Down and Power buttons simultaneously. You can also knock twice on the screen with your knuckle for a quick screenshot.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How do I take a screenshot on a Huawei phone?",
+              "answers": [
+                {
+                  "text": "Press the Volume Down and Power buttons simultaneously",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "It's possible via workarounds, but not officially supported. It may cause instability or stop working after updates.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Can I install Google Play Store on a Huawei phone?",
+              "answers": [
+                {
+                  "text": "It's possible via workarounds, but not officially supported",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "HarmonyOS is Huawei\u2019s in-house OS. It looks like Android but is built to integrate better across Huawei devices like phones, tablets, and smart home gear.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "What is HarmonyOS and how is it different from Android?",
+              "answers": [
+                {
+                  "text": "HarmonyOS is Huawei\u2019s in-house OS",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Huawei\u2019s Phone Clone app to transfer apps, contacts, and files from your old device via Wi-Fi.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "How do I transfer data to a new Huawei phone?",
+              "answers": [
+                {
+                  "text": "Use Huawei\u2019s Phone Clone app to transfer apps, contacts, and files from your old device via Wi-Fi",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Older models supported 5G, but recent ones may be limited to 4G due to global restrictions on chip access.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Do Huawei phones support 5G?",
+              "answers": [
+                {
+                  "text": "Older models supported 5G, but recent ones may be limited to 4G due to global restrictions on chip access",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Power Saving Mode, reduce screen brightness, and manage background apps via Settings > Battery > App Launch.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "How do I improve battery life on my Huawei phone?",
+              "answers": [
+                {
+                  "text": "Use Power Saving Mode, reduce screen brightness, and manage background apps via Settings > Battery > App Launch",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many banking apps now support AppGallery and run on Huawei\u2019s secure platform. Always download from official sources.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Is it safe to use banking apps on Huawei devices?",
+              "answers": [
+                {
+                  "text": "Yes, many banking apps now support AppGallery and run on Huawei\u2019s secure platform",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Huawei provides regular HarmonyOS and security updates for supported devices, especially newer flagship models.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Do Huawei phones get regular updates?",
+              "answers": [
+                {
+                  "text": "Yes, Huawei provides regular HarmonyOS and security updates for supported devices, especially newer flagship models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Huawei still makes excellent hardware and cameras. Software limitations without Google may affect some users, but many apps have alternatives.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Are Huawei phones still good in 2025?",
+              "answers": [
+                {
+                  "text": "Yes, Huawei still makes excellent hardware and cameras",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Swipe up and hold to enter multitasking, then tap the split screen icon. You can drag compatible apps into place.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "How do I use split screen on a Huawei phone?",
+              "answers": [
+                {
+                  "text": "Swipe up and hold to enter multitasking, then tap the split screen icon",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Visit a Huawei-authorized service center or book a repair via Huawei\u2019s official support site or the My Huawei app.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Where can I get my Huawei phone repaired?",
+              "answers": [
+                {
+                  "text": "Visit a Huawei-authorized service center or book a repair via Huawei\u2019s official support site or the My Huawei app",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Huawei is known for top-tier cameras, especially in the P and Mate series, with great low-light and zoom capabilities.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Are Huawei phones good for photography?",
+              "answers": [
+                {
+                  "text": "Yes, Huawei is known for top-tier cameras, especially in the P and Mate series, with great low-light and zoom capabilities",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, WhatsApp can be downloaded from the official site or third-party stores. It works normally even without Google services.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Can I use WhatsApp on Huawei phones?",
+              "answers": [
+                {
+                  "text": "Yes, WhatsApp can be downloaded from the official site or third-party stores",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "HMS replaces Google services on Huawei phones. It includes cloud storage, location services, and the AppGallery.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "What is Huawei Mobile Services (HMS)?",
+              "answers": [
+                {
+                  "text": "HMS replaces Google services on Huawei phones",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Huawei phones are durable and well-built. With good care, they can easily last 3\u20134 years or more.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "How long does a Huawei phone last?",
+              "answers": [
+                {
+                  "text": "Huawei phones are durable and well-built",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Huawei Cloud offers backup for contacts, messages, and photos. It\u2019s accessible via your Huawei ID.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Can I backup my Huawei phone to the cloud?",
+              "answers": [
+                {
+                  "text": "Yes, Huawei Cloud offers backup for contacts, messages, and photos",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Huawei phones are not banned for consumers. However, restrictions limit their access to U.S. tech like Google services and certain chips.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Is Huawei banned everywhere?",
+              "answers": [
+                {
+                  "text": "Huawei phones are not banned for consumers",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

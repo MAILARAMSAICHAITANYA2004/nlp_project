@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Poco Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "MIUI on Poco phones may show ads in system apps like File Manager or Security. You can disable them in app settings by turning off 'Recommendations'.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Poco phone showing ads?",
+              "answers": [
+                {
+                  "text": "MIUI on Poco phones may show ads in system apps like File Manager or Security",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press Volume Down + Power together or swipe three fingers down the screen. These shortcuts can be customized under Settings.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I take a screenshot on a Poco phone?",
+              "answers": [
+                {
+                  "text": "Press Volume Down + Power together or swipe three fingers down the screen",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "MIUI for Poco is a slightly tweaked version of Xiaomi\u2019s MIUI, optimized for Poco phones. It offers a different launcher but largely shares features.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "What is MIUI for Poco and how is it different?",
+              "answers": [
+                {
+                  "text": "MIUI for Poco is a slightly tweaked version of Xiaomi\u2019s MIUI, optimized for Poco phones",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Poco phones like the F5 and X5 Pro offer great performance for gaming with high refresh rate displays and powerful chipsets.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "Are Poco phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Yes, Poco phones like the F5 and X5 Pro offer great performance for gaming with high refresh rate displays and powerful chipsets",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "It may overheat due to heavy gaming, long charging sessions, or background apps. Close unused apps and reduce screen brightness when not needed.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Why is my Poco phone overheating?",
+              "answers": [
+                {
+                  "text": "It may overheat due to heavy gaming, long charging sessions, or background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > About Phone > Factory Reset. Ensure your important data is backed up before proceeding.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "How do I reset my Poco phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > About Phone > Factory Reset",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Poco X5 and M6 Pro are solid choices under \u20b920K, offering 5G support, smooth displays, and good battery life.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Which Poco phone is best under \u20b920,000?",
+              "answers": [
+                {
+                  "text": "The Poco X5 and M6 Pro are solid choices under \u20b920K, offering 5G support, smooth displays, and good battery life",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "With good care, a Poco phone can last 2\u20133 years. Mid-range and flagship models tend to last longer with better hardware.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "How long does a Poco phone last?",
+              "answers": [
+                {
+                  "text": "With good care, a Poco phone can last 2\u20133 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Reduce screen brightness, use Battery Saver, and limit background apps. MIUI also offers built-in battery optimization tools.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "How do I improve battery life on Poco phones?",
+              "answers": [
+                {
+                  "text": "Reduce screen brightness, use Battery Saver, and limit background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most Poco phones support Camera2 API and are compatible with GCam ports. It can greatly improve photo quality, especially in low light.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Can I install GCam on Poco phones?",
+              "answers": [
+                {
+                  "text": "Yes, most Poco phones support Camera2 API and are compatible with GCam ports",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, newer models like Poco X5 5G, M6 Pro, and F5 support 5G. Always confirm on the spec sheet before purchasing.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Does Poco support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, newer models like Poco X5 5G, M6 Pro, and F5 support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some pre-installed apps can be disabled in Settings > Apps. For complete removal, you can use ADB tools.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How do I remove bloatware from Poco phones?",
+              "answers": [
+                {
+                  "text": "Some pre-installed apps can be disabled in Settings > Apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Poco phones get MIUI updates and security patches regularly, but major Android version updates may be slower on budget models.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Do Poco phones get regular updates?",
+              "answers": [
+                {
+                  "text": "Poco phones get MIUI updates and security patches regularly, but major Android version updates may be slower on budget models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Game Turbo is a gaming enhancement mode that boosts performance, blocks notifications, and adds in-game tools. You can enable it via the Security app.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "What is Game Turbo on Poco phones?",
+              "answers": [
+                {
+                  "text": "Game Turbo is a gaming enhancement mode that boosts performance, blocks notifications, and adds in-game tools",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lag can be due to app overload, animations, or low memory. Clear cache, reduce animations, and consider restarting the device regularly.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Why does my Poco phone lag?",
+              "answers": [
+                {
+                  "text": "Lag can be due to app overload, animations, or low memory",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, go to Settings > Apps > Dual apps to clone apps like WhatsApp, Facebook, or Instagram.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Can I use dual apps on a Poco phone?",
+              "answers": [
+                {
+                  "text": "Yes, go to Settings > Apps > Dual apps to clone apps like WhatsApp, Facebook, or Instagram",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "All are under Xiaomi. Poco focuses on performance, Redmi on affordability, and Xiaomi (Mi) is the premium flagship line.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "What\u2019s the difference between Poco, Redmi, and Xiaomi?",
+              "answers": [
+                {
+                  "text": "Poco focuses on performance, Redmi on affordability, and Xiaomi (Mi) is the premium flagship line",
+                  "answer_start": 22
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > About Phone > MIUI Version to check for updates. Ensure you're connected to Wi-Fi for large downloads.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "How do I update my Poco phone?",
+              "answers": [
+                {
+                  "text": "Go to Settings > About Phone > MIUI Version to check for updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Poco phones are reliable for 2\u20133 years. For long-term use, choose higher-end models with better chipsets and update support.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Is Poco good for long-term use?",
+              "answers": [
+                {
+                  "text": "Poco phones are reliable for 2\u20133 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Poco phones are serviced at Xiaomi service centers. You can locate the nearest center via the Mi Store app or Xiaomi\u2019s website.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Where can I get Poco phone service in India?",
+              "answers": [
+                {
+                  "text": "Poco phones are serviced at Xiaomi service centers",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

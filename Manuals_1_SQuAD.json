@@ -1,0 +1,698 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Android QA",
+      "paragraphs": [
+        {
+          "context": "Some users feel Android is becoming more restrictive with ads and bloatware. However, it still offers more customization than iOS. Using custom ROMs and disabling unnecessary apps can help.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Is android becoming anti customer ?",
+              "answers": [
+                {
+                  "text": "Some users feel Android is becoming more restrictive with ads and bloatware",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "To optimize your Android, clear cache regularly, uninstall unused apps, and keep software updated. Using lightweight launchers and disabling background data for unused apps also helps.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How to optimize my android?",
+              "answers": [
+                {
+                  "text": "To optimize your Android, clear cache regularly, uninstall unused apps, and keep software updated",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Commonly used widgets include weather, calendar, clock, music, and note-taking widgets like Google Keep. They help with quick info and productivity right from your home screen.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "What widgets do you use on your Android phone?",
+              "answers": [
+                {
+                  "text": "Commonly used widgets include weather, calendar, clock, music, and note-taking widgets like Google Keep",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, 'Find My Device' has improved. It now offers better tracking, lock, and erase features remotely via your Google account. Make sure it's enabled in your device settings.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "Is \u201cFind my device\u201d any good now?",
+              "answers": [
+                {
+                  "text": "Yes, 'Find My Device' has improved",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "LineageOS is a popular custom ROM known for privacy and regular updates. If you want a clean, fast experience, it's a great choice. Pixel Experience is also good for a stock-like feel.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Best Android OS to install on my phone?",
+              "answers": [
+                {
+                  "text": "LineageOS is a popular custom ROM known for privacy and regular updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Old Android phones can be repurposed as security cameras, music players, or smart remotes. You can also use them for testing apps or giving to kids for basic use.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "What can I do with an old android phone?",
+              "answers": [
+                {
+                  "text": "Old Android phones can be repurposed as security cameras, music players, or smart remotes",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Android runs on tablets, smart TVs, streaming devices like Chromecast, and even cars (Android Auto). It's not limited to just phones.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Any android devices that are not phones ?",
+              "answers": [
+                {
+                  "text": "Yes, Android runs on tablets, smart TVs, streaming devices like Chromecast, and even cars (Android Auto)",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Google's 'Switch to Android' app makes the transition easy. Back up your iPhone data and follow the app steps to transfer contacts, messages, photos, and more.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Need help switching from iphone to android?",
+              "answers": [
+                {
+                  "text": "Google's 'Switch to Android' app makes the transition easy",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Consider your budget, camera needs, battery life, and OS preference. Mid-range phones from Samsung, Google, or OnePlus are great all-rounders.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Need help deciding on a phone?",
+              "answers": [
+                {
+                  "text": "Consider your budget, camera needs, battery life, and OS preference",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Google Pixel series is known for clean Android and great cameras. Samsung\u2019s Galaxy S series offers powerful hardware. Choose based on your preferences and budget.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Which android phone is the best ?",
+              "answers": [
+                {
+                  "text": "The Google Pixel series is known for clean Android and great cameras",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Android is an open-source OS developed by Google. It's highly customizable and powers a wide range of devices. Apps are mainly distributed via the Google Play Store.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Help me understand Android OS ?",
+              "answers": [
+                {
+                  "text": "Android is an open-source OS developed by Google",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Over the last 6 years, Android has become more secure, visually polished, and privacy-conscious. Features like gesture navigation and Material You have modernized the experience.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How has android changed in the last 6 years?",
+              "answers": [
+                {
+                  "text": "Over the last 6 years, Android has become more secure, visually polished, and privacy-conscious",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can report issues on Google's issue tracker or ask in forums like XDA or Reddit. Also, updating your phone may fix known bugs automatically.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "How can users get help with Android bugs and issues?",
+              "answers": [
+                {
+                  "text": "You can report issues on Google's issue tracker or ask in forums like XDA or Reddit",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Android allows more frequent updates per app since developers can push changes directly. This gives quicker bug fixes and feature additions compared to iOS\u2019s stricter review process.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Why do apps receive so many updates only on Android?",
+              "answers": [
+                {
+                  "text": "Android allows more frequent updates per app since developers can push changes directly",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can access Android via touchscreen, voice commands, or physical buttons. Developer options and USB debugging allow deeper access for advanced users.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "How do you access an android?",
+              "answers": [
+                {
+                  "text": "You can access Android via touchscreen, voice commands, or physical buttons",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Consider phones with minimal bloatware like Google Pixel or those that support custom ROMs. Devices like the Fairphone or using GrapheneOS are also great for privacy.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Which android-smartphone for privacy conscious Apple- User?",
+              "answers": [
+                {
+                  "text": "Consider phones with minimal bloatware like Google Pixel or those that support custom ROMs",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Try restarting, clearing app cache, or checking for updates. Factory resetting can solve persistent issues. For hardware problems, visit a service center.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "How can I fix my android?",
+              "answers": [
+                {
+                  "text": "Try restarting, clearing app cache, or checking for updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Nova Launcher, Niagara, and Microsoft Launcher are popular. They offer customization, speed, and clean UI. Choose one based on your style and needs.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Do you recommend any Android launchers?",
+              "answers": [
+                {
+                  "text": "Nova Launcher, Niagara, and Microsoft Launcher are popular",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Start by setting up your Google account, customizing your home screen, and exploring settings. Use the Play Store to install apps and widgets you like.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Brand new to Android. Now what?",
+              "answers": [
+                {
+                  "text": "Start by setting up your Google account, customizing your home screen, and exploring settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Google Pixel 8, Samsung Galaxy S24, and OnePlus 12 are top Android phones in 2025. They offer strong performance, great cameras, and reliable updates.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Best Android Smartphone?",
+              "answers": [
+                {
+                  "text": "Google Pixel 8, Samsung Galaxy S24, and OnePlus 12 are top Android phones in 2025",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "For a work phone, consider something secure and durable like the Pixel 7a or Samsung Galaxy A54. Prioritize battery life, performance, and software updates.",
+          "qas": [
+            {
+              "id": "20",
+              "question": "Help me pick a company phone?",
+              "answers": [
+                {
+                  "text": "For a work phone, consider something secure and durable like the Pixel 7a or Samsung Galaxy A54",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can try installing Tasker through a third-party app store like F-Droid if it's available there. Otherwise, temporary Play Store access may still be needed for activation.",
+          "qas": [
+            {
+              "id": "21",
+              "question": "I'm planning to de-google my phone, but it looks like I'll need to install the play store briefly to validate Tasker. Is there another way to validate that doesn't require a google presence?",
+              "answers": [
+                {
+                  "text": "You can try installing Tasker through a third-party app store like F-Droid if it's available there",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Google Pixel, Samsung Galaxy A series, and OnePlus Nord are solid picks. Consider software updates, performance, and budget before deciding.",
+          "qas": [
+            {
+              "id": "22",
+              "question": "Which Android to get?",
+              "answers": [
+                {
+                  "text": "Google Pixel, Samsung Galaxy A series, and OnePlus Nord are solid picks",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some say Android is adopting iOS features like gesture navigation and privacy labels. However, it still offers more freedom and customization than iOS.",
+          "qas": [
+            {
+              "id": "23",
+              "question": "Why is Android trying to become iOS so bad?",
+              "answers": [
+                {
+                  "text": "Some say Android is adopting iOS features like gesture navigation and privacy labels",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, options like Google Pixel 7a or Moto G Power offer great value and performance. The mid-range segment is especially strong right now.",
+          "qas": [
+            {
+              "id": "24",
+              "question": "Is there any good android choice right now?",
+              "answers": [
+                {
+                  "text": "Yes, options like Google Pixel 7a or Moto G Power offer great value and performance",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Android/data is restricted since Android 11. Use apps like File Manager+ or access via PC using USB to view and manage these folders.",
+          "qas": [
+            {
+              "id": "25",
+              "question": "help with android/app/data?",
+              "answers": [
+                {
+                  "text": "Android/data is restricted since Android 11",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Android messaging has improved with RCS, but iMessage users may see reduced functionality. Apps like WhatsApp or Signal can help bridge the gap.",
+          "qas": [
+            {
+              "id": "26",
+              "question": "If I switch to Android will messaging others suck?",
+              "answers": [
+                {
+                  "text": "Android messaging has improved with RCS, but iMessage users may see reduced functionality",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "No, Google is not killing Android 11. However, support may decline as newer versions roll out. Upgrading to newer Android versions is encouraged.",
+          "qas": [
+            {
+              "id": "27",
+              "question": "Is Google trying to kill Android 11?",
+              "answers": [
+                {
+                  "text": "No, Google is not killing Android 11",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some Android phones come with more ads in system apps, especially from brands like Xiaomi or Realme. Opt for ad-free phones like Pixels for a cleaner experience.",
+          "qas": [
+            {
+              "id": "28",
+              "question": "Android much more ads than ios?",
+              "answers": [
+                {
+                  "text": "Some Android phones come with more ads in system apps, especially from brands like Xiaomi or Realme",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Set up your Google account, transfer data from your old device, and explore settings. Install apps you need and personalize your home screen.",
+          "qas": [
+            {
+              "id": "29",
+              "question": "Switch to android for the first time?",
+              "answers": [
+                {
+                  "text": "Set up your Google account, transfer data from your old device, and explore settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "You can disable security features like Smart Lock or fingerprint from settings. Rooting gives more control, but it voids warranty and may risk security.",
+          "qas": [
+            {
+              "id": "30",
+              "question": "How to disable Android Security?",
+              "answers": [
+                {
+                  "text": "You can disable security features like Smart Lock or fingerprint from settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Try restarting your phone and checking if permissions are enabled. If it still doesn't work, try safe mode or visit a technician.",
+          "qas": [
+            {
+              "id": "31",
+              "question": "Phone mic not working",
+              "answers": [
+                {
+                  "text": "Try restarting your phone and checking if permissions are enabled",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > Apps > Special access > Draw over other apps. From there, disable the apps you don\u2019t want running over others.",
+          "qas": [
+            {
+              "id": "32",
+              "question": "Disable app running inside other apps?",
+              "answers": [
+                {
+                  "text": "Go to Settings > Apps > Special access > Draw over other apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Consider a Moto G series or Samsung A14. They are affordable, reliable, and good for basic tasks. Make sure it supports the required apps and features.",
+          "qas": [
+            {
+              "id": "33",
+              "question": "What would be a good inexpensive Android device to purchase for a research study in a mental health facility?",
+              "answers": [
+                {
+                  "text": "Consider a Moto G series or Samsung A14",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Windows Phone is mostly discontinued. Android offers better support and more apps. Choose Android for long-term usability and compatibility.",
+          "qas": [
+            {
+              "id": "34",
+              "question": "Want to upgrade but having trouble deciding between Android and Windows Phone.",
+              "answers": [
+                {
+                  "text": "Windows Phone is mostly discontinued",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Galaxy Nexus was phased out years ago, while Nexus 7 had more recent attention. Current shipping delays depend on the seller or provider.",
+          "qas": [
+            {
+              "id": "35",
+              "question": "Everyone is talking about the Nexus 7 shipping, but has anyone's Galaxy Nexi shipped yet?",
+              "answers": [
+                {
+                  "text": "The Galaxy Nexus was phased out years ago, while Nexus 7 had more recent attention",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "It depends on your needs. Android offers more customization and options, but can be fragmented. For many, it's a refreshing change from iOS.",
+          "qas": [
+            {
+              "id": "36",
+              "question": "Is the grass greener on the Android side?",
+              "answers": [
+                {
+                  "text": "Android offers more customization and options, but can be fragmented",
+                  "answer_start": 26
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, newer Android versions use an app drawer. Long-press the app and drag to 'Remove' or use launcher settings to customize home screens.",
+          "qas": [
+            {
+              "id": "37",
+              "question": "Can't just remove apps from homescreen anymore?",
+              "answers": [
+                {
+                  "text": "Yes, newer Android versions use an app drawer",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Open Contacts > Add new > Name it 'Me' or 'Self'. Sync it with your Google account so it's always backed up and available across devices.",
+          "qas": [
+            {
+              "id": "38",
+              "question": "How to create/restore \"me\"/\"self\" contact in android?",
+              "answers": [
+                {
+                  "text": "Open Contacts > Add new > Name it 'Me' or 'Self'",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, apps like Xodo, PDF to Image Converter, and Adobe Acrobat can convert PDFs to JPG or PNG. They\u2019re fast and available on the Play Store.",
+          "qas": [
+            {
+              "id": "39",
+              "question": "Is there a fast android app that converts PDFs to images in jpg/PNG format?",
+              "answers": [
+                {
+                  "text": "Yes, apps like Xodo, PDF to Image Converter, and Adobe Acrobat can convert PDFs to JPG or PNG",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Look for older devices like Nexus 5 or Moto E2 that can run Android 5.0. You may find them on eBay or local classifieds at low prices.",
+          "qas": [
+            {
+              "id": "40",
+              "question": "Good cheap android smartphone that runs Android 5.0 to test out an app?",
+              "answers": [
+                {
+                  "text": "Look for older devices like Nexus 5 or Moto E2 that can run Android 5",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Flat phones are rare, but look into phones with no camera bump like some Xperia models. Also consider using a flat case to even out the back.",
+          "qas": [
+            {
+              "id": "41",
+              "question": "Help me find a \"lie-flat\" android phone!!",
+              "answers": [
+                {
+                  "text": "Flat phones are rare, but look into phones with no camera bump like some Xperia models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Focus on battery life, long-term software updates, and hardware quality. Google Pixel or Samsung phones usually get regular updates and last longer.",
+          "qas": [
+            {
+              "id": "42",
+              "question": "Struggling to Choose the Right Phone for Long-Term Use?",
+              "answers": [
+                {
+                  "text": "Focus on battery life, long-term software updates, and hardware quality",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

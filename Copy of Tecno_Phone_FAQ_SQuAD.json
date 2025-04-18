@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Tecno Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Yes, Tecno phones offer great value with large displays, big batteries, and decent performance at affordable prices. They\u2019re a solid choice for budget users.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Are Tecno phones good in 2025?",
+              "answers": [
+                {
+                  "text": "Yes, Tecno phones offer great value with large displays, big batteries, and decent performance at affordable prices",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Tecno provides updates for major models, but they may be slower or less frequent compared to big brands like Samsung or Xiaomi.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "Do Tecno phones get software updates?",
+              "answers": [
+                {
+                  "text": "Tecno provides updates for major models, but they may be slower or less frequent compared to big brands like Samsung or Xiaomi",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "HiOS is Tecno\u2019s custom skin on top of Android. It includes extra features, themes, and customization options tailored for Tecno users.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Is HiOS on Tecno phones the same as Android?",
+              "answers": [
+                {
+                  "text": "HiOS is Tecno\u2019s custom skin on top of Android",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some pre-installed apps can be disabled or uninstalled via Settings > Apps. Others may require ADB tools to remove completely.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "Can I remove bloatware from Tecno phones?",
+              "answers": [
+                {
+                  "text": "Some pre-installed apps can be disabled or uninstalled via Settings > Apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Power and Volume Down buttons at the same time. You can also swipe three fingers down on supported models.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "How do I take a screenshot on a Tecno phone?",
+              "answers": [
+                {
+                  "text": "Press the Power and Volume Down buttons at the same time",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Tecno Spark 10, POVA 5, and Camon 20 offer good performance, cameras, and battery life under \u20b915K.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Which Tecno phone is best under \u20b915,000?",
+              "answers": [
+                {
+                  "text": "The Tecno Spark 10, POVA 5, and Camon 20 offer good performance, cameras, and battery life under \u20b915K",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, newer models like the Tecno POVA 5G and Camon 20 Pro 5G support 5G. Always check the specific model\u2019s specs.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Do Tecno phones support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, newer models like the Tecno POVA 5G and Camon 20 Pro 5G support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Tecno phones like the POVA series are optimized for gaming with large batteries, high-refresh displays, and performance-focused chipsets.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Are Tecno phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Tecno phones like the POVA series are optimized for gaming with large batteries, high-refresh displays, and performance-focused chipsets",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset Options > Erase all data (factory reset). Make sure to back up your data first.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "How do I reset a Tecno phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset Options > Erase all data (factory reset)",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lag may be caused by low storage or too many background apps. Clear cache, disable animations, and restart your phone to improve performance.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Why is my Tecno phone lagging?",
+              "answers": [
+                {
+                  "text": "Lag may be caused by low storage or too many background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Use Power Saving Mode, reduce screen brightness, and restrict background apps in HiOS Battery settings.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "How do I improve battery life on a Tecno phone?",
+              "answers": [
+                {
+                  "text": "Use Power Saving Mode, reduce screen brightness, and restrict background apps in HiOS Battery settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, some Tecno Camon series phones offer AMOLED displays with better colors and contrast compared to LCD screens.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Does Tecno have AMOLED displays?",
+              "answers": [
+                {
+                  "text": "Yes, some Tecno Camon series phones offer AMOLED displays with better colors and contrast compared to LCD screens",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most Tecno phones support dual SIM slots along with a dedicated microSD card slot for storage expansion.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Can I use dual SIM on Tecno phones?",
+              "answers": [
+                {
+                  "text": "Yes, most Tecno phones support dual SIM slots along with a dedicated microSD card slot for storage expansion",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, HiOS is secure for general use. However, review app permissions and disable unwanted ads or notifications in system settings.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Is HiOS safe to use?",
+              "answers": [
+                {
+                  "text": "Yes, HiOS is secure for general use",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Tecno has service centers in many countries. Use their official website or Carlcare app to locate the nearest center.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Where can I find Tecno phone service centers?",
+              "answers": [
+                {
+                  "text": "Tecno has service centers in many countries",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Tecno phones are generally durable for their price. Some models even offer splash resistance and reinforced builds.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Are Tecno phones durable?",
+              "answers": [
+                {
+                  "text": "Tecno phones are generally durable for their price",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Tecno phones ship with Google Play Services, so you can download apps like Gmail, YouTube, and Google Maps easily.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "Can I install Google apps on Tecno phones?",
+              "answers": [
+                {
+                  "text": "Yes, Tecno phones ship with Google Play Services, so you can download apps like Gmail, YouTube, and Google Maps easily",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "All three are owned by Transsion. Tecno is positioned as a mid-range brand, offering better specs than Itel and more refinement than Infinix.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Is Tecno better than Infinix or Itel?",
+              "answers": [
+                {
+                  "text": "All three are owned by Transsion",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most Tecno phones can handle daily apps like Instagram, YouTube, and WhatsApp smoothly, especially mid-range models.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Can Tecno phones run heavy apps like Instagram or YouTube smoothly?",
+              "answers": [
+                {
+                  "text": "Yes, most Tecno phones can handle daily apps like Instagram, YouTube, and WhatsApp smoothly, especially mid-range models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "With good care, a Tecno phone can last 2\u20133 years. Regular software maintenance helps extend its lifespan.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "How long does a Tecno phone typically last?",
+              "answers": [
+                {
+                  "text": "With good care, a Tecno phone can last 2\u20133 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Samsung Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Overheating can happen from excessive gaming, multitasking, or charging while using the phone. Close background apps, avoid heavy usage during charging, and keep software up to date to minimize heat.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Samsung phone overheating?",
+              "answers": [
+                {
+                  "text": "Overheating can happen from excessive gaming, multitasking, or charging while using the phone",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lower screen brightness, disable Always-On Display, and check for battery-hogging apps. Using Battery Saver and turning off background activity can extend battery life noticeably.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How can I fix battery drain on my Galaxy phone?",
+              "answers": [
+                {
+                  "text": "Lower screen brightness, disable Always-On Display, and check for battery-hogging apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Clear the cache, uninstall unused apps, and disable animations in Developer Options. Restarting the phone regularly and updating software can also help improve performance.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "My Samsung phone is lagging \u2014 how can I speed it up?",
+              "answers": [
+                {
+                  "text": "Clear the cache, uninstall unused apps, and disable animations in Developer Options",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "It might be due to a faulty cable, dirt in the charging port, or a damaged battery. Try a different charger and inspect the port. If the issue continues, visit a service center.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "Why is my Galaxy phone not charging properly?",
+              "answers": [
+                {
+                  "text": "It might be due to a faulty cable, dirt in the charging port, or a damaged battery",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > General Management > Reset > Factory data reset. Make sure to back up your data first, as this will erase everything on your phone.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "How do I reset my Samsung phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > General Management > Reset > Factory data reset",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Not necessarily. Samsung\u2019s fast charging is designed to manage heat and voltage carefully. Frequent fast charging may affect long-term battery health slightly, but it\u2019s generally safe.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Does fast charging degrade the battery faster?",
+              "answers": [
+                {
+                  "text": "Samsung\u2019s fast charging is designed to manage heat and voltage carefully",
+                  "answer_start": 17
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, but the phone will only draw as much power as it supports. Using a higher-watt certified charger won\u2019t damage the phone, but it may not charge any faster.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Can I use a higher-watt charger with my Samsung phone?",
+              "answers": [
+                {
+                  "text": "Yes, but the phone will only draw as much power as it supports",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Galaxy S24 Ultra offers around 6\u20138 hours of screen time under typical use. Battery life varies based on usage patterns, screen brightness, and background apps.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "What is the battery life of the latest Galaxy model?",
+              "answers": [
+                {
+                  "text": "The Galaxy S24 Ultra offers around 6\u20138 hours of screen time under typical use",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Connect your phone to a monitor or PC via USB-C or wirelessly (on supported models). DeX gives you a desktop-like experience using your phone's apps and data.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "How do I use Samsung DeX?",
+              "answers": [
+                {
+                  "text": "Connect your phone to a monitor or PC via USB-C or wirelessly (on supported models)",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "One UI is Samsung\u2019s custom interface on top of Android. It offers additional features, theming, and Samsung apps. It\u2019s optimized for large screens and one-handed use.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "What is One UI and how is it different from stock Android?",
+              "answers": [
+                {
+                  "text": "One UI is Samsung\u2019s custom interface on top of Android",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some Samsung apps can be uninstalled or disabled. Go to Settings > Apps, select the app, and choose \u201cDisable\u201d or \u201cUninstall\u201d if available.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Can I uninstall or disable Samsung\u2019s pre-installed apps (bloatware)?",
+              "answers": [
+                {
+                  "text": "Some Samsung apps can be uninstalled or disabled",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Flagship Samsung phones usually get 4 years of major Android updates and 5 years of security patches. Mid-range models get slightly fewer updates.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "How often do Samsung phones get software updates?",
+              "answers": [
+                {
+                  "text": "Flagship Samsung phones usually get 4 years of major Android updates and 5 years of security patches",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Samsung Knox is a security platform built into Galaxy devices. It offers encryption, secure boot, and app isolation to protect your personal and work data.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "What is Samsung Knox and how does it protect my phone?",
+              "answers": [
+                {
+                  "text": "Samsung Knox is a security platform built into Galaxy devices",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Galaxy S24 Ultra currently leads with a 200MP main sensor, great zoom, and excellent night photography. It\u2019s ideal for both casual and professional users.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Which Samsung phone has the best camera?",
+              "answers": [
+                {
+                  "text": "The Galaxy S24 Ultra currently leads with a 200MP main sensor, great zoom, and excellent night photography",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Samsung tends to boost colors and contrast more, while iPhones aim for realism. It's a matter of processing style\u2014both can be adjusted in settings or editing apps.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Why do my Samsung photos look different than on an iPhone?",
+              "answers": [
+                {
+                  "text": "Samsung tends to boost colors and contrast more, while iPhones aim for realism",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "In the Camera app, swipe to \u201cMore\u201d and tap \u201cPro.\u201d You can manually control ISO, shutter speed, white balance, and focus\u2014great for advanced photography.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "How do I use Pro Mode on Samsung\u2019s camera app?",
+              "answers": [
+                {
+                  "text": "In the Camera app, swipe to \u201cMore\u201d and tap \u201cPro",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The S series offers premium features, better cameras, and faster performance. The A series is more budget-friendly and still good for everyday use.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "Which is better: Galaxy S series or A series?",
+              "answers": [
+                {
+                  "text": "The S series offers premium features, better cameras, and faster performance",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Samsung offers longer support, better software, and higher build quality. Chinese brands can be cheaper, but may compromise on software updates and security.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Is Samsung Galaxy worth the price compared to Chinese brands?",
+              "answers": [
+                {
+                  "text": "Samsung offers longer support, better software, and higher build quality",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Most Samsung flagships now get 4 years of Android updates and 5 years of security updates. Mid-range phones usually get 3 years of updates.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "How long does Samsung provide software and security updates?",
+              "answers": [
+                {
+                  "text": "Most Samsung flagships now get 4 years of Android updates and 5 years of security updates",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "They\u2019re much improved from earlier versions. Still, folding phones are more delicate than slab phones. Handle with care, especially around the hinge and screen.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Is the Galaxy Fold/Z Flip durable?",
+              "answers": [
+                {
+                  "text": "They\u2019re much improved from earlier versions",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

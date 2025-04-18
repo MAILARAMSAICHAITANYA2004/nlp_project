@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Infinix Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "Yes, Infinix phones are budget-friendly and offer large displays, big batteries, and decent performance for everyday use.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Are Infinix phones good in 2025?",
+              "answers": [
+                {
+                  "text": "Yes, Infinix phones are budget-friendly and offer large displays, big batteries, and decent performance for everyday use",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Infinix provides updates for newer models, but they may be less frequent than major brands. Mid-range models usually receive at least one major update.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "Do Infinix phones get regular software updates?",
+              "answers": [
+                {
+                  "text": "Infinix provides updates for newer models, but they may be less frequent than major brands",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "XOS is Infinix\u2019s custom UI based on Android. It includes additional features like Smart Panel, Game Mode, and themes.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "What is XOS on Infinix phones?",
+              "answers": [
+                {
+                  "text": "XOS is Infinix\u2019s custom UI based on Android",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Power and Volume Down buttons together, or use the three-finger swipe gesture if enabled in settings.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How do I take a screenshot on an Infinix phone?",
+              "answers": [
+                {
+                  "text": "Press the Power and Volume Down buttons together, or use the three-finger swipe gesture if enabled in settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some pre-installed apps can be uninstalled or disabled. For deeper removal, you may need ADB tools.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "Can I remove bloatware from Infinix phones?",
+              "answers": [
+                {
+                  "text": "Some pre-installed apps can be uninstalled or disabled",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Infinix Zero 5G, Hot 30 5G, and Note 12 offer good performance, cameras, and displays under \u20b915K.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Which Infinix phone is best under \u20b915,000?",
+              "answers": [
+                {
+                  "text": "The Infinix Zero 5G, Hot 30 5G, and Note 12 offer good performance, cameras, and displays under \u20b915K",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, newer models like the Infinix Zero 5G and Hot 30 5G support 5G. Always check the product specs.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Do Infinix phones support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, newer models like the Infinix Zero 5G and Hot 30 5G support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, especially the Zero and Note series provide smooth gaming with decent chipsets and large batteries.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "Are Infinix phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Yes, especially the Zero and Note series provide smooth gaming with decent chipsets and large batteries",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset Options > Erase all data. Backup important data before resetting.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "How do I reset an Infinix phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset Options > Erase all data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lag may be due to full storage or too many background apps. Clear cache, update software, and restart regularly.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Why is my Infinix phone lagging?",
+              "answers": [
+                {
+                  "text": "Lag may be due to full storage or too many background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Enable Power Saving Mode, reduce brightness, and limit background apps. Use XOS Battery Lab for more control.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "How do I improve battery life on Infinix phones?",
+              "answers": [
+                {
+                  "text": "Enable Power Saving Mode, reduce brightness, and limit background apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most Infinix phones support dual SIM slots and a dedicated microSD card slot.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Can I use dual SIM in Infinix phones?",
+              "answers": [
+                {
+                  "text": "Yes, most Infinix phones support dual SIM slots and a dedicated microSD card slot",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Infinix phones include fingerprint, face unlock, and standard Android security. Always update your software for better protection.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Are Infinix phones secure?",
+              "answers": [
+                {
+                  "text": "Infinix phones include fingerprint, face unlock, and standard Android security",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Infinix service centers can be found via the Carlcare app or the Infinix official website.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Where can I get my Infinix phone serviced?",
+              "answers": [
+                {
+                  "text": "Infinix service centers can be found via the Carlcare app or the Infinix official website",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, some models like the Infinix Note 12 feature AMOLED displays. Most others use IPS LCD.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Do Infinix phones have AMOLED displays?",
+              "answers": [
+                {
+                  "text": "Yes, some models like the Infinix Note 12 feature AMOLED displays",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Infinix phones come with Google Play Services, so you can install apps like Gmail, YouTube, and Maps.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Can I use Google apps on Infinix phones?",
+              "answers": [
+                {
+                  "text": "Yes, Infinix phones come with Google Play Services, so you can install apps like Gmail, YouTube, and Maps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "With proper care, Infinix phones can last 2\u20133 years. Performance may decline on heavy use after that.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "How long does an Infinix phone last?",
+              "answers": [
+                {
+                  "text": "With proper care, Infinix phones can last 2\u20133 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "XOS is feature-rich and customizable, but some users find it heavy. It includes tools for gaming, cleaning, and multitasking.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Is XOS user-friendly?",
+              "answers": [
+                {
+                  "text": "XOS is feature-rich and customizable, but some users find it heavy",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Both are part of Transsion Holdings. Infinix often targets performance and youth-centric features, while Tecno focuses on camera and battery.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Is Infinix better than Tecno?",
+              "answers": [
+                {
+                  "text": "Both are part of Transsion Holdings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some Infinix phones support Camera2 API and can run GCam for better photography, but compatibility varies by model.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Can I install GCam on Infinix phones?",
+              "answers": [
+                {
+                  "text": "Some Infinix phones support Camera2 API and can run GCam for better photography, but compatibility varies by model",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

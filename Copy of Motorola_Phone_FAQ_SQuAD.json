@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Motorola Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "It could be due to low storage, too many background apps, or outdated software. Restart your phone, clear cache, and uninstall unused apps to improve performance.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Motorola phone freezing or lagging?",
+              "answers": [
+                {
+                  "text": "It could be due to low storage, too many background apps, or outdated software",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > Storage and use the cleanup tool. You can also clear app cache individually from Settings > Apps > [App Name] > Storage.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I clear cache or free up space on a Moto phone?",
+              "answers": [
+                {
+                  "text": "Go to Settings > Storage and use the cleanup tool",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Battery drain can be caused by high screen brightness, background apps, or poor signal. Use Battery Saver, reduce screen timeout, and check which apps use the most power.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Why is my Motorola battery draining fast?",
+              "answers": [
+                {
+                  "text": "Battery drain can be caused by high screen brightness, background apps, or poor signal",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Try a different charger and inspect the USB port for debris. Restart the phone and charge in Safe Mode to check for software issues.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "My Moto phone is not charging \u2014 what should I do?",
+              "answers": [
+                {
+                  "text": "Try a different charger and inspect the USB port for debris",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > System > Reset Options > Erase all data (factory reset). Make sure to back up your data before proceeding.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "How do I perform a factory reset on my Motorola phone?",
+              "answers": [
+                {
+                  "text": "Go to Settings > System > Reset Options > Erase all data (factory reset)",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many Motorola phones support fast charging, typically 15W to 30W. Use the original charger for best results.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Does Motorola support fast charging, and how fast is it?",
+              "answers": [
+                {
+                  "text": "Yes, many Motorola phones support fast charging, typically 15W to 30W",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, most use USB-C, but for fast charging, use a Motorola-certified charger or one that supports the required wattage.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "Can I use any charger with my Motorola phone?",
+              "answers": [
+                {
+                  "text": "Yes, most use USB-C, but for fast charging, use a Motorola-certified charger or one that supports the required wattage",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Moto G series often offers 1.5 to 2 days of battery life with average use, thanks to their large batteries and power-efficient software.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "How long does the battery last on a Moto G series phone?",
+              "answers": [
+                {
+                  "text": "The Moto G series often offers 1",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Motorola provides 1\u20132 major Android updates and up to 3 years of security patches, depending on the model. Flagships get better support than budget phones.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Does Motorola offer regular Android updates?",
+              "answers": [
+                {
+                  "text": "Motorola provides 1\u20132 major Android updates and up to 3 years of security patches, depending on the model",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Motorola uses a near-stock Android experience with a few useful additions like Moto Actions and Peek Display. It\u2019s clean and bloat-free.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "How close is Motorola\u2019s UI to stock Android?",
+              "answers": [
+                {
+                  "text": "Motorola uses a near-stock Android experience with a few useful additions like Moto Actions and Peek Display",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Open the Moto app, go to 'Moto Actions,' and toggle features like 'Fast flashlight' and 'Quick capture' to enable gesture shortcuts.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "How do I enable gestures like chop for flashlight or twist for camera?",
+              "answers": [
+                {
+                  "text": "Open the Moto app, go to 'Moto Actions,' and toggle features like 'Fast flashlight' and 'Quick capture' to enable gesture shortcuts",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Most Moto features are built into the system and can't be fully uninstalled, but you can disable them in Settings > Apps.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Can I uninstall Moto apps or Moto Actions?",
+              "answers": [
+                {
+                  "text": "Most Moto features are built into the system and can't be fully uninstalled, but you can disable them in Settings > Apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Support is modest\u2014better on premium models. For long-term use, choose phones with clear update commitments, like Motorola Edge+ or G200.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "Is Motorola good for long-term software support?",
+              "answers": [
+                {
+                  "text": "Support is modest\u2014better on premium models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Budget Motorola phones struggle in low light due to smaller sensors. Use Night Mode if available, or add external lighting for better results.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "Why is my Motorola camera quality poor in low light?",
+              "answers": [
+                {
+                  "text": "Budget Motorola phones struggle in low light due to smaller sensors",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "In the camera app, swipe to 'More' and select 'Pro' mode to manually adjust ISO, shutter speed, white balance, and focus.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "How do I enable manual camera mode on Motorola phones?",
+              "answers": [
+                {
+                  "text": "In the camera app, swipe to 'More' and select 'Pro' mode to manually adjust ISO, shutter speed, white balance, and focus",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, they offer excellent value for light to moderate users. Good battery life and big screens make them ideal for media and casual use.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "Is the Moto G Power or G Stylus worth buying in 2025?",
+              "answers": [
+                {
+                  "text": "Yes, they offer excellent value for light to moderate users",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Moto G Power, G13, and E13 are great for budget buyers. They offer decent specs and clean software at affordable prices.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "Which Motorola phone is best for budget users?",
+              "answers": [
+                {
+                  "text": "The Moto G Power, G13, and E13 are great for budget buyers",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Motorola provides cleaner software and better pricing, while Samsung offers longer updates and better cameras. Choose based on your priorities.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Is Motorola better than Samsung for Android users on a budget?",
+              "answers": [
+                {
+                  "text": "Motorola provides cleaner software and better pricing, while Samsung offers longer updates and better cameras",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, especially in the G and E series. They\u2019re built to last under regular use and often have water-repellent coatings.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Are Motorola phones durable and reliable?",
+              "answers": [
+                {
+                  "text": "Yes, especially in the G and E series",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "With good care, a Motorola phone can last 2\u20133 years. Flagship models may last longer due to better hardware and software support.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "How long does a typical Motorola phone last?",
+              "answers": [
+                {
+                  "text": "With good care, a Motorola phone can last 2\u20133 years",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

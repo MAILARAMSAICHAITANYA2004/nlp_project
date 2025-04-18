@@ -1,0 +1,330 @@
+{
+  "version": "v2.0",
+  "data": [
+    {
+      "title": "Xiaomi Phone FAQ",
+      "paragraphs": [
+        {
+          "context": "MIUI includes ads in system apps to keep costs low. You can disable most ads by turning off recommendations in app settings like File Manager, Security, and Downloads.",
+          "qas": [
+            {
+              "id": "0",
+              "question": "Why is my Xiaomi phone showing ads in system apps?",
+              "answers": [
+                {
+                  "text": "MIUI includes ads in system apps to keep costs low",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Press the Volume Down + Power buttons, or use the three-finger swipe gesture if enabled under Settings > Additional Settings > Button Shortcuts.",
+          "qas": [
+            {
+              "id": "1",
+              "question": "How do I take a screenshot on a Xiaomi phone?",
+              "answers": [
+                {
+                  "text": "Press the Volume Down + Power buttons, or use the three-finger swipe gesture if enabled under Settings > Additional Settings > Button Shortcuts",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Heavy usage, gaming, or background apps may cause heating. Close unused apps, avoid playing games while charging, and keep your software up to date.",
+          "qas": [
+            {
+              "id": "2",
+              "question": "Why is my Xiaomi phone heating up?",
+              "answers": [
+                {
+                  "text": "Heavy usage, gaming, or background apps may cause heating",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > About Phone > Factory Reset. Make sure to back up your data, as this process will erase everything.",
+          "qas": [
+            {
+              "id": "3",
+              "question": "How do I reset my Xiaomi phone to factory settings?",
+              "answers": [
+                {
+                  "text": "Go to Settings > About Phone > Factory Reset",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "MIUI is Xiaomi\u2019s custom interface with added features, customization, and its own design. It's more feature-rich but heavier than stock Android.",
+          "qas": [
+            {
+              "id": "4",
+              "question": "What is MIUI and how is it different from stock Android?",
+              "answers": [
+                {
+                  "text": "MIUI is Xiaomi\u2019s custom interface with added features, customization, and its own design",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Xiaomi provides frequent updates, especially for new models. Flagships and some Redmi Note series get 3-4 years of updates, while budget phones may get less.",
+          "qas": [
+            {
+              "id": "5",
+              "question": "Does Xiaomi provide regular software updates?",
+              "answers": [
+                {
+                  "text": "Xiaomi provides frequent updates, especially for new models",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Reduce brightness, enable Battery Saver, turn off GPS and background sync, and manage app battery usage via MIUI Battery Settings.",
+          "qas": [
+            {
+              "id": "6",
+              "question": "How can I improve battery life on my Xiaomi phone?",
+              "answers": [
+                {
+                  "text": "Reduce brightness, enable Battery Saver, turn off GPS and background sync, and manage app battery usage via MIUI Battery Settings",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Mi (now Xiaomi) is the flagship line, Redmi targets budget/mid-range users, and Poco offers performance-focused phones at aggressive prices.",
+          "qas": [
+            {
+              "id": "7",
+              "question": "What is the difference between Redmi, Mi, and Poco phones?",
+              "answers": [
+                {
+                  "text": "Mi (now Xiaomi) is the flagship line, Redmi targets budget/mid-range users, and Poco offers performance-focused phones at aggressive prices",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, phones like the Poco F5, Redmi K60, and Xiaomi 13T Pro offer strong gaming performance with good displays and processors.",
+          "qas": [
+            {
+              "id": "8",
+              "question": "Are Xiaomi phones good for gaming?",
+              "answers": [
+                {
+                  "text": "Yes, phones like the Poco F5, Redmi K60, and Xiaomi 13T Pro offer strong gaming performance with good displays and processors",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Some pre-installed apps can be uninstalled or disabled. For deeper cleanup, you can use ADB or third-party tools to remove system apps.",
+          "qas": [
+            {
+              "id": "9",
+              "question": "Can I uninstall or disable bloatware on MIUI?",
+              "answers": [
+                {
+                  "text": "Some pre-installed apps can be uninstalled or disabled",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Lag can occur due to background apps, animations, or full storage. Clear cache, disable animations, and use Lite Mode to improve performance.",
+          "qas": [
+            {
+              "id": "10",
+              "question": "Why is my Xiaomi phone lagging?",
+              "answers": [
+                {
+                  "text": "Lag can occur due to background apps, animations, or full storage",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many newer Xiaomi, Redmi, and Poco phones support 5G. Check the specific model's specs for confirmation.",
+          "qas": [
+            {
+              "id": "11",
+              "question": "Do Xiaomi phones support 5G?",
+              "answers": [
+                {
+                  "text": "Yes, many newer Xiaomi, Redmi, and Poco phones support 5G",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Second Space allows you to create a separate user profile with different apps and data. It\u2019s useful for privacy or sharing the device.",
+          "qas": [
+            {
+              "id": "12",
+              "question": "What is Second Space on Xiaomi phones?",
+              "answers": [
+                {
+                  "text": "Second Space allows you to create a separate user profile with different apps and data",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Go to Settings > Apps > Dual apps. Select apps like WhatsApp or Facebook to clone and use two accounts simultaneously.",
+          "qas": [
+            {
+              "id": "13",
+              "question": "How do I use dual apps or clone apps on Xiaomi?",
+              "answers": [
+                {
+                  "text": "Go to Settings > Apps > Dual apps",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, Xiaomi phones are generally secure, though some users are concerned about data collection in MIUI. You can limit tracking in privacy settings.",
+          "qas": [
+            {
+              "id": "14",
+              "question": "Is Xiaomi safe and secure to use?",
+              "answers": [
+                {
+                  "text": "Yes, Xiaomi phones are generally secure, though some users are concerned about data collection in MIUI",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Poco is a sub-brand that focuses on performance and value. It usually runs a slightly cleaner version of MIUI and has fewer ads.",
+          "qas": [
+            {
+              "id": "15",
+              "question": "How is Poco different from Xiaomi or Redmi?",
+              "answers": [
+                {
+                  "text": "Poco is a sub-brand that focuses on performance and value",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Game Turbo optimizes performance for gaming and blocks distractions. It can be accessed in the Security app under Game Turbo settings.",
+          "qas": [
+            {
+              "id": "16",
+              "question": "What is Game Turbo and how to use it?",
+              "answers": [
+                {
+                  "text": "Game Turbo optimizes performance for gaming and blocks distractions",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Yes, many Xiaomi and Poco phones support GCam with Camera2 API. GCam can improve photo quality, especially in low light.",
+          "qas": [
+            {
+              "id": "17",
+              "question": "Can I install Google Camera (GCam) on Xiaomi phones?",
+              "answers": [
+                {
+                  "text": "Yes, many Xiaomi and Poco phones support GCam with Camera2 API",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "The Redmi Note 13, Poco X5, and Redmi 12 5G offer great value under \u20b920K with strong displays, decent cameras, and good performance.",
+          "qas": [
+            {
+              "id": "18",
+              "question": "Which Xiaomi phone is best under \u20b920,000?",
+              "answers": [
+                {
+                  "text": "The Redmi Note 13, Poco X5, and Redmi 12 5G offer great value under \u20b920K with strong displays, decent cameras, and good performance",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        },
+        {
+          "context": "Xiaomi has a large service network across India. You can find the nearest service center via the official Mi Store app or website.",
+          "qas": [
+            {
+              "id": "19",
+              "question": "Where can I get Xiaomi phone service or repair in India?",
+              "answers": [
+                {
+                  "text": "Xiaomi has a large service network across India",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
