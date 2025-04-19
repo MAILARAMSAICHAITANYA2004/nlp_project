@@ -1,3 +1,3 @@
-#NLP Project - CS563
+NLP Project - CS563
 
 Group No: 36
